@@ -116,3 +116,4 @@
 		new Vue({
 			store
 		})
+"# vuex-test-demos" 
